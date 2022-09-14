@@ -28,4 +28,4 @@ async def on_message(message):
         out = message_to_exec(message = message.content)
         await message.channel.send(out)
 
-client.run('MTAxOTI2MTM2MDIyNTQwMjk3MQ.GyVBaN.j7nGAFTYAakZWf3IQ-vqXCh7TGn8D3CGmc-KwA', log_handler=handler, log_level=logging.DEBUG)
+client.run('Iaccidentlypushedmytokentogithublol', log_handler=handler, log_level=logging.DEBUG)
